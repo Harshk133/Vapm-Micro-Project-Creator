@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+article{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    line-height: 35px;
+    margin: 0 260px;
+}
+
+.plate{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 110px;
+}
+
+.fs{
+    font-size: x-large;
+}
+
+.purple{
+    color: purple;
+}
